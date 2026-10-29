@@ -1,4 +1,4 @@
-# RAE
+# Raejy
 
 **Developer · Creator · Owner of Rae's Lab**
 
