@@ -1,7 +1,4 @@
 # Raejy
-
-**Developer · Creator · Owner of Rae's Lab**
-
 I build things around Minecraft, Discord and web development. Most of my work focuses on creating useful tools to speed up tedious tasks, systems and projects.
 
 ### Projects
@@ -12,10 +9,8 @@ A Discord bot focused on server management, moderation and utility features.
 **[Rae's Lab](https://discord.gg/9RaMVadcRA)**  
 A community for sharing projects, getting help and connecting with other developers.
 
-### Tech Stack
-
+## Tech Stack
 **Languages & Web**
-
 <p>
   <img src="assets/tech-stack/python.png" width="48" />
   <img src="assets/tech-stack/java.png" width="48" />
@@ -30,7 +25,6 @@ A community for sharing projects, getting help and connecting with other develop
 </p>
 
 **Minecraft Development**
-
 <p>
   <img src="assets/tech-stack/minecraft.png" width="48" />
   <img src="assets/tech-stack/papermc.png" width="48" />
@@ -40,7 +34,6 @@ A community for sharing projects, getting help and connecting with other develop
 </p>
 
 **Databases & Backend**
-
 <p>
   <img src="assets/tech-stack/mongodb.png" width="48" />
   <img src="assets/tech-stack/supabase.png" width="48" />
@@ -48,7 +41,6 @@ A community for sharing projects, getting help and connecting with other develop
 </p>
 
 **Tools & Development**
-
 <p>
   <img src="assets/tech-stack/git.png" width="48" />
   <img src="assets/tech-stack/github.png" width="48" />
@@ -58,16 +50,10 @@ A community for sharing projects, getting help and connecting with other develop
   <img src="assets/tech-stack/maven.png" width="48" />
   <img src="assets/tech-stack/docker.png" width="48" />
   <img src="assets/tech-stack/chromium.png" width="48" />
-</p>
-
-**Other**
-
-<p>
   <img src="assets/tech-stack/markdown.png" width="48" />
 </p>
 
 ### Links
-
 - **Website:** [authority.mom](https://authority.mom)
 - **Discord:** [Rae's Lab](https://discord.gg/9RaMVadcRA)
 - **Authority Bot:** [Invite to your server](https://discord.com/oauth2/authorize?client_id=1212327880902844427&scope=bot%20applications.commands)
