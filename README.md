@@ -16,7 +16,6 @@ A community for sharing projects, getting help and connecting with other develop
   <img src="assets/tech-stack/java.png" width="48" />
   <img src="assets/tech-stack/kotlin.png" width="48" />
   <img src="assets/tech-stack/c.png" width="48" />
-  <img src="assets/tech-stack/c-plus-plus.png" width="48" />
   <img src="assets/tech-stack/javascript.png" width="48" />
   <img src="assets/tech-stack/typescript.png" width="48" />
   <img src="assets/tech-stack/html5.png" width="48" />
@@ -30,6 +29,8 @@ A community for sharing projects, getting help and connecting with other develop
   <img src="assets/tech-stack/papermc.png" width="48" />
   <img src="assets/tech-stack/fabric.png" width="48" />
   <img src="assets/tech-stack/spigot.png" width="48" />
+  <img src="assets/tech-stack/gradle.png" width="48" />
+  <img src="assets/tech-stack/maven.png" width="48" />
 </p>
 
 **Databases & Backend**
@@ -45,8 +46,6 @@ A community for sharing projects, getting help and connecting with other develop
   <img src="assets/tech-stack/github.png" width="48" />
   <img src="assets/tech-stack/intellij.png" width="48" />
   <img src="assets/tech-stack/vscode.png" width="48" />
-  <img src="assets/tech-stack/gradle.png" width="48" />
-  <img src="assets/tech-stack/maven.png" width="48" />
   <img src="assets/tech-stack/docker.png" width="48" />
   <img src="assets/tech-stack/chromium.png" width="48" />
 </p>
