@@ -26,11 +26,10 @@ A community for sharing projects, getting help and connecting with other develop
 
 **Minecraft Development**
 <p>
-  <img src="assets/tech-stack/minecraft.png" width="48" />
+  <img src="assets/tech-stack/skript.png" width="48" />
   <img src="assets/tech-stack/papermc.png" width="48" />
   <img src="assets/tech-stack/fabric.png" width="48" />
   <img src="assets/tech-stack/spigot.png" width="48" />
-  <img src="assets/tech-stack/skript.png" width="48" />
 </p>
 
 **Databases & Backend**
@@ -50,7 +49,6 @@ A community for sharing projects, getting help and connecting with other develop
   <img src="assets/tech-stack/maven.png" width="48" />
   <img src="assets/tech-stack/docker.png" width="48" />
   <img src="assets/tech-stack/chromium.png" width="48" />
-  <img src="assets/tech-stack/markdown.png" width="48" />
 </p>
 
 ### Links
